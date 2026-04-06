@@ -11,7 +11,7 @@
       "id": "potterium-main",
       "name": "Potterium RP",
       "description": "Servidor de Roleplay Mágico",
-      "icon": null,
+      "icon": "",
       "version": "1.21.4",
       "address": "br-1.odysseycloud.com.br:25567",
       "minecraftVersion": "1.21.4",
